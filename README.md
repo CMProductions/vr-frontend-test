@@ -23,6 +23,7 @@ You can find all the design assets in the `/assets` folder
 # Other
 
 - Please don't use any libraries or frameworks (jquery, bootstrap, angular, react)
+- Please don't use any front-end template engines
 - Usage of bundlers, CSS preprocessors and task runners is encouraged
 - Please provide a short summary detailing anything you think is relevant, for _example_:
   - Installation steps
