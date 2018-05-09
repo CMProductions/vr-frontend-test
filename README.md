@@ -5,9 +5,9 @@ We would like you to code a single responsive page  without any backend. Below a
 - The design consists of 3 "views" small (320px to 640px), medium (641px to 1024px), large (1025px and above)
 - The page content doesn't expand above 1400px and the minimum supported width is 320px
 - On small view:
--- The header stays always visible at the top of the page
--- Clicking the download button reveals the download options menu/dropdown
--- Clicking the "burger" menu reveals the navigation links
+  * The header stays always visible at the top of the page
+  * Clicking the download button reveals the download options menu/dropdown
+  * Clicking the "burger" menu reveals the navigation links
 - All the links point to "#"
 - Page should look acceptable on IE10/IE11.
 - The page font is Roboto
